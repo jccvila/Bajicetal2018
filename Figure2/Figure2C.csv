@@ -1,0 +1,7 @@
+Step,First_Mutant,Fitness_Measured,SE_measured
+WT,CitT,0,0
+WT,dctA,0,0
+Single,CitT,0.6225268904,0.04736605
+Single,dctA,-0.2111780429,0.0284795673
+Double,CitT,2.5423922066,0.1354510986
+Double,dctA,0.7541513729,0.0802649942

@@ -1,5 +1,5 @@
 ﻿This repository contain the datafiles for Bajic et al 2018. 
-Method used to obtian this data are outlined in the SI for the paper.
+Methods used to obtain this data are outlined in the SI for the paper.
 
 The data is broken down by relevant figure. 
 Data for figure 3C,3D,S2,S6 will be made available shortly

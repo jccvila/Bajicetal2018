@@ -2,7 +2,7 @@
 Methods used to obtain this data are outlined in the SI for the paper.
 
 The data is broken down by relevant figure. 
-Data for figure 3C,3D,S2,S6 will be made available shortly
+
 
 Fig1C.csv: Secretion Profile (output fluxes) for subset of genotypes  differing from E.coli by a single metabolic mutant
 FigS1.csv: Secretion Profile for full that set of single metabolic mutant genotypes that have an environmental effect.
@@ -12,9 +12,7 @@ Fig2C.csv: Simulated fitness landscape measurments for Citrate mutants in the DM
 Fig2D.csv: Experimental fitness landscape measurments for Citrate mutants in the DM25 Medium
 FigS4.csv: Experimental and predicted colony counts for all indivual competition assays.
 
-Fig3B.csv: Pairs of Reaction for which δ/FMAX >0.01
-Fig3C.csv: Distribution of deformability for each gene in the network, measured as its degree in the network
-Fig3D.csv: Percentage of epistatic pairs with δ/FMAX >T as a function of T
+Fig3.csv: Contains data for all pairs in the network which have an epistatic interaction, as defined in the main text (epsilon > 0.001)
 FigS6.csv: Environemntal effect of all mutants which are in the network
 
 Fig4Bcsv: Data used to calculated ΔFitness for a single random walk starting with ACKr
